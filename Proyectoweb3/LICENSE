@@ -1,0 +1,22 @@
+---
+
+## 🗄️ **GITHUB WORKFLOWS**
+
+### `.github/workflows/deploy-backend.yml`
+```yaml
+name: Deploy Backend
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'backend/**'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Deploy to Render
+        run: |
+          curl -X POST ${{ secrets.RENDER_DEPLOY_HOOK }}
