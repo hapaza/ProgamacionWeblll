@@ -1,0 +1,32 @@
+{"level":"error","message":"Error en login: data and hash arguments required","timestamp":"2026-05-19T00:42:21.371Z"}
+{"level":"error","message":"Error en login: data and hash arguments required","timestamp":"2026-05-19T00:43:02.516Z"}
+{"level":"error","message":"Error en login: data and hash arguments required","timestamp":"2026-05-19T00:43:40.820Z"}
+{"level":"error","message":"Error en login: data and hash arguments required","timestamp":"2026-05-19T00:46:23.596Z"}
+{"level":"error","message":"Error en login: data and hash arguments required","timestamp":"2026-05-19T01:01:13.300Z"}
+{"level":"error","message":"Error en login: Credenciales incorrectas","timestamp":"2026-05-19T01:04:04.624Z"}
+{"level":"error","message":"Error en login: data and hash arguments required","timestamp":"2026-05-19T01:12:25.988Z"}
+{"level":"error","message":"Error en login: no existe la relación «Cuenta»","timestamp":"2026-05-19T01:17:41.097Z"}
+{"level":"error","message":"Error en login: no existe la relación «Cuenta»","timestamp":"2026-05-19T02:26:58.398Z"}
+{"level":"error","message":"Error en login: no existe la relación «Cuenta»","timestamp":"2026-05-19T02:28:06.630Z"}
+{"level":"error","message":"Error en login: no existe la relación «Cuenta»","timestamp":"2026-05-19T02:30:34.388Z"}
+{"level":"error","message":"Error en login: no existe la relación «Cuenta»","timestamp":"2026-05-19T02:35:14.537Z"}
+{"level":"error","message":"Error en registro: no existe la relación «Cuenta»","timestamp":"2026-05-19T02:35:56.309Z"}
+{"level":"error","message":"Error en registro: no existe la relación «Cuenta»","timestamp":"2026-05-19T02:36:29.244Z"}
+{"level":"error","message":"Error en registro: no existe la relación «Cuenta»","timestamp":"2026-05-19T02:36:30.803Z"}
+{"level":"error","message":"Error en registro: no existe la relación «Cuenta»","timestamp":"2026-05-19T02:36:31.746Z"}
+{"level":"error","message":"Error en registro: no existe la relación «Cuenta»","timestamp":"2026-05-19T02:36:31.917Z"}
+{"level":"error","message":"Error en registro: no existe la relación «Cuenta»","timestamp":"2026-05-19T02:36:32.071Z"}
+{"level":"error","message":"Error en registro: no existe la relación «Cuenta»","timestamp":"2026-05-19T02:36:32.303Z"}
+{"level":"error","message":"Error en login: Credenciales incorrectas. Intentos: 1/5","timestamp":"2026-05-19T02:41:11.043Z"}
+{"level":"error","message":"Error en login: Credenciales incorrectas. Intentos: 1/5","timestamp":"2026-05-19T02:44:02.145Z"}
+{"level":"error","message":"Error en login: Credenciales incorrectas. Intentos: 1/5","timestamp":"2026-05-19T02:49:37.712Z"}
+{"level":"error","message":"Error en login: Credenciales incorrectas. Intentos: 1/5","timestamp":"2026-05-19T02:50:59.955Z"}
+{"level":"error","message":"Error en login: Credenciales incorrectas. Intentos: 1/5","timestamp":"2026-05-19T02:54:30.373Z"}
+{"level":"error","message":"Error en login: no existe la relación «Cuenta»","timestamp":"2026-05-19T02:58:48.710Z"}
+{"level":"error","message":"Error en login: no existe la relación «Cuenta»","timestamp":"2026-05-19T03:02:56.306Z"}
+{"level":"error","message":"Error en login: no existe la relación «Cuenta»","timestamp":"2026-05-19T03:04:47.181Z"}
+{"level":"error","message":"Error en login: no existe la relación «Cuenta»","timestamp":"2026-05-19T03:04:59.896Z"}
+{"level":"error","message":"Error en login: no existe la relación «Cuenta»","timestamp":"2026-05-19T03:07:36.648Z"}
+{"level":"error","message":"Error en login: Credenciales incorrectas","timestamp":"2026-05-19T03:13:31.545Z"}
+{"level":"error","message":"Error en login: Credenciales incorrectas","timestamp":"2026-05-19T03:15:33.047Z"}
+{"level":"error","message":"Error en login: Credenciales incorrectas","timestamp":"2026-05-19T03:19:19.175Z"}
